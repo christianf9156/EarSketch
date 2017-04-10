@@ -43,7 +43,7 @@ together on a musical timeline.
 
 **Tracks-** layers of sounds and beats to create a song or remix.
 
-
+![EarSketch Setup](EarSketch_SetUp.png)
 
 This is the basic setup to use when creating a new work space. This is the JS version,
 so the python version will look a little different, but will have the same concept.
