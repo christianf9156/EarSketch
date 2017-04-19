@@ -1,3 +1,4 @@
+
 # JS Notes
 
 For loops are used to make a piece of code run a certain number of times. When using
@@ -8,7 +9,7 @@ applies when using a while loop. The only difference between a "for loop" and a
 something to run. If you do not know how many times something should run then you 
 would use a while loop.
 
-```
+``` JS
 For Loop Syntax
 
 for(var i = 0; i < 10; i++){
@@ -20,7 +21,7 @@ lower than the number 10. Once the counter (i++) reaches the number 10 the loop
 ends because it has reached a condition that evaluates to "false", because 10 is not
 less than 10, but 10 is = to 10. Therefore it evaluates to "false" and ends.
 
-```
+```  JS
 While Loop Syntax
 
 var i = 0;
@@ -43,7 +44,9 @@ together on a musical timeline.
 
 **Tracks-** layers of sounds and beats to create a song or remix.
 
-![EarSketch Setup](EarSketch_SetUp.png)
+
+
+![EarSketch Setup](/images/EarSketch_SetUp.png)
 
 This is the basic setup to use when creating a new work space. This is the JS version,
 so the python version will look a little different, but will have the same concept.
