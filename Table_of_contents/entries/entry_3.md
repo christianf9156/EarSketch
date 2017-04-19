@@ -46,7 +46,7 @@ together on a musical timeline.
 
 
 
-![EarSketch Setup](/Table_of_content/images/EarSketch_SetUp.png)
+![EarSketch Setup](/EarSketch/Table_of_contents/images/EarSketch_SetUp.png)
 
 This is the basic setup to use when creating a new work space. This is the JS version,
 so the python version will look a little different, but will have the same concept.
