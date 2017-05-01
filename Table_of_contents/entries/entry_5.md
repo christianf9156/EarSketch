@@ -11,7 +11,8 @@ in beats/minute.
 
 **Beats =** rhythmic movement, or is the speed at which a piece of music is played.
 
-![musicNotes](/Table_of_contents/images/musicNotes.png)
+![music_Notes](/Table_of_contents/images/music_Notes.png)
+
 
 
 **Sub-Beats =** the divisions of beats. Ex, eighth note, 16th note, etc..
